@@ -120,8 +120,8 @@
     "ionic-plugin-keyboard@2.2.0"
   ],
   "engines": {
-    "node": ">= 4",
-    "npm": ">= 3"
+    "node": "6.9.4",
+    "npm": "2.1.x"
   },
   "os": [
     "!win32"
