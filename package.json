@@ -59,7 +59,7 @@
     "exports-loader": "^0.6.2",
     "expose-loader": "^0.7.0",
     "file-loader": "^0.8.4",
-    "fs-extra": "^0.26.3",
+    
     "html-loader": "^0.3.0",
     "html-webpack-plugin": "^1.6.1",
     "imports-loader": "^0.6.4",
@@ -91,6 +91,7 @@
     "lodash": "^3.9.3",
     "moment": "^2.9.0",
     "ng-cordova": "^0.1.23-alpha",
+    "fs-extra": "^0.26.3",
     "v-accordion": "~1.3.1",
     "wp-api-angularjs": "^2.0.0-rc3"
   },
